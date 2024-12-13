@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Section3Tech</string>
+    <string name="title" >meme app </string>
+    <string name ="contentDescription" >the image in app </string>
+</resources>
